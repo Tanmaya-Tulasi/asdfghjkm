@@ -1,0 +1,40 @@
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.csproj.AssemblyReference.cache
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.AssemblyInfoInputs.cache
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.AssemblyInfo.cs
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.csproj.CoreCompileInputs.cache
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Cellphone shop.exe
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Cellphone shop.deps.json
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Cellphone shop.runtimeconfig.json
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Cellphone shop.runtimeconfig.dev.json
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Cellphone shop.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Cellphone shop.pdb
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\staticwebassets\Cellphone shop.StaticWebAssets.Manifest.cache
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\staticwebassets\Cellphone shop.StaticWebAssets.xml
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Cellphone shop.styles.css
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.RazorTargetAssemblyInfo.cache
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.csproj.CopyComplete
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.dll
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.pdb
+C:\Users\c1julymind114\source\repos\Cellphone shop\Cellphone shop\obj\Debug\netcoreapp3.1\Cellphone shop.genruntimeconfig.cache
